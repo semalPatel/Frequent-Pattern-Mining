@@ -32,7 +32,7 @@ NA
 
 
 ## Run as
-python PatternMining.py
+`python PatternMining.py`
 
 ## Operation:
 - The frequent patterns should be ordered according to their support from largest to small- est. Ties should be resolved by ordering the frequent patterns according to the alphabetical order.
